@@ -19,4 +19,4 @@ Now, you haved started the server.Visit http://localhost:3030 ,you will see
 
 ## License
 
-Copyright © 2013 LRQ
+Copyright © 2013 Felix Lisp.
